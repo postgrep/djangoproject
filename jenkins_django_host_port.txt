@@ -1,0 +1,10 @@
+jenkins-server
+http://localhost:8080/
+
+django-development-server
+http://127.0.0.1:8000/
+
+start django dev server:
+django-admin.py startproject mysite
+python manage.py runserver
+(mkdir mysite in .)
